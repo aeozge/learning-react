@@ -1,0 +1,22 @@
+.shopping-list {
+  max-width: 450px;
+  margin: 0 auto;
+  border-top: 5px solid #435757;
+  border-radius: 3rem;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin-top: 3rem;
+}
+
+body {
+  margin: 20px;
+  color: #435757;
+  background: #d0b782;
+  font: 500 1.2em/1.2 "Roboto", sans-serif;
+  text-align: center;
+}
+
+.shopping-list li {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}

@@ -1,0 +1,22 @@
+.input {
+  margin: 0;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.4);
+  font-size: 22px;
+  text-align: center;
+  border-color: #435757;
+  margin-left: 1rem;
+}
+
+.button {
+  background-color: rgba(255, 255, 255, 0.4);
+  font-size: 18px;
+  border-color: #435757;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
